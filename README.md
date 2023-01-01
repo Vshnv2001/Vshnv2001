@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mvaishnav.sg@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jFvwYEwFffKfNlZsg9sAcQETUQ9izcIU/view?usp=sharing](https://drive.google.com/file/d/1jFvwYEwFffKfNlZsg9sAcQETUQ9izcIU/view?usp=sharing)
+- 📄 Click [here](https://drive.google.com/file/d/1jFvwYEwFffKfNlZsg9sAcQETUQ9izcIU/view?usp=sharing) to see my resume!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
