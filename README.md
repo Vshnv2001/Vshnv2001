@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnav</h1>
-<h3 align="center">an experienced back-end developer. I play the tabla (Indian Drum) and have played in nation-wide chess tournaments in Singapore.</h3>
+<h3 align="center">I'm currently an experienced back-end developer, extremely curious about blockchain and looking to expand my knowledge in AI/ML. I play the tabla (Indian Drum) and have played in nation-wide chess tournaments in Singapore.</h3>
 
 - 🔭 I’m currently working on [Circulage](https://github.com/KayTeo/Circulage)
 
