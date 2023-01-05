@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flask, Redis, Solidity**
 
-- 📫 How to reach me **mvaishnav.sg@gmail.com**
+- 📫 Reach me at **mvaishnav.sg@gmail.com**
 
 - 📄 Click [here](https://drive.google.com/file/d/1jFvwYEwFffKfNlZsg9sAcQETUQ9izcIU/view?usp=sharing) to see my resume!
 
