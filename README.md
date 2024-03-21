@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaishnav</h1>
-<h4 align="center">I'm an experienced back-end developer, extremely curious about blockchain and currently looking to expand my knowledge in AI/ML. I play the tabla (Indian Drum) and have played in nation-wide chess tournaments in Singapore.</h4>
+<h4 align="center">I'm an experienced back-end developer and data engineer currently working at RealSage (a Toronto-based PropTech startup), extremely curious about blockchain and currently looking to expand my knowledge in AI/ML. I play the tabla (Indian Drum) and have played in nation-wide chess tournaments in Singapore.</h4>
 
-- 🔭 I’m currently working on [Circulage](https://github.com/KayTeo/Circulage)
+- 🔭 I’m currently working on [reUsage](https://github.com/Vshnv2001/reUsage)
 
-- 🌱 I’m currently learning **Flask, Redis, Solidity**
+- 🌱 I’m currently learning **PyTorch**
 
 - 📫 Reach me at **mvaishnav.sg@gmail.com**
 
