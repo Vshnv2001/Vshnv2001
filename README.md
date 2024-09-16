@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishnav</h1>
 <h4 align="center">I'm an experienced back-end developer and data engineer currently working at RealSage (a Toronto-based PropTech startup), extremely curious about blockchain and currently looking to expand my knowledge in AI/ML. I play the tabla (Indian Drum) and have played in nation-wide chess tournaments in Singapore.</h4>
 
-- 🔭 I’m currently working on [reUsage](https://github.com/Vshnv2001/reUsage)
-
-- 🌱 I’m currently learning **PyTorch**
-
-- 📫 Reach me at **mvaishnav.sg@gmail.com**
-
-- 📄 Click [here](https://drive.google.com/file/d/1jFvwYEwFffKfNlZsg9sAcQETUQ9izcIU/view?usp=sharing) to see my resume!
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaishnav-muralidharan-73a8366a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaishnav-muralidharan-73a8366a/" height="30" width="40" /></a>
@@ -19,7 +11,7 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vshnv2001&show_icons=true&locale=en&layout=compact" alt="vshnv2001" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vshnv2001&show_icons=true&locale=en" alt="vshnv2001" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vshnv2001&show_icons=true&locale=en" alt="vshnv2001" /></p>-->
 
 <!--
 **Vshnv2001/Vshnv2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
