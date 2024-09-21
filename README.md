@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnav</h1>
-<h4 align="center">I'm an experiencedfull-stack developer and data engineer (ex Micron, Continental) and have worked in many startups in Singapore and Toronto. I love building things of value to others and enjoy client-facing roles.</h4>
+<h4 align="center">I'm an experienced full-stack developer and data engineer (ex Micron, Continental) and have worked in many startups in Singapore and Toronto. I love building things of value to others and enjoy client-facing roles.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
